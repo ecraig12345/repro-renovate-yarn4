@@ -6,5 +6,6 @@
   "postUpdateOptions": ["yarnDedupeFewer", "npmDedupe"],
   "lockFileMaintenance": {
     "enabled": true
-  }
+  },
+  "dependencyDashboard": true
 }
